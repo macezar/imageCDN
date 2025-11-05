@@ -374,4 +374,4 @@ For issues and questions:
 
 ---
 
-Built with ❤️ using Node.js, React, and Cloudinary
+Built using Node.js, React, and Cloudinary
